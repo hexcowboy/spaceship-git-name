@@ -11,9 +11,9 @@ A [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt) plugin tha
 To install this plugin you need to source it from your `.zshrc`
 
 1. Save `spaceship-git-name.sh` to your home folder (`~`)
-2. In your `.zshrc`, source the plugin before you initialize spaceship
+2. In your `.zshrc`, source the plugin before you initialize spaceship. You can rename the file to anything you want.
 ```
-. ~/.spaceship.sh # <------ Add this line before the following!
+. ~/spaceship-git-name.sh # <------ Add this line before the following!
 autoload -U promptinit; promptinit
 prompt spaceship
 ```
