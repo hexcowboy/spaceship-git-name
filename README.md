@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This is no longer maintained.
+
 # spaceship-git-name
 ![Preview of plugin](https://i.imgur.com/mANrDW3.png)
 A [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt) plugin that shows the current git user name and email. The email icon is displayed if a git email address has been configured. Additionally, the git user name is displayed if it has been configured.
